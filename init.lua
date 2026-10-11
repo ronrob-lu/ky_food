@@ -43,7 +43,8 @@ end
 
 -- Item definitions helper
 local function register_ky_item(id, title, nutrition, is_drink)
-	local item_name = modname .. ":" .. id
+	local clean_id = id:lower():gsub("-", "_")
+	local item_name = modname .. ":" .. clean_id
 	local desc = title
 
 	local groups = {food = 1, oddly_breakable_by_hand = 3}
@@ -65,6 +66,7 @@ local function register_ky_item(id, title, nutrition, is_drink)
 		inventory_image = id .. ".png",
 		wield_image = id .. ".png",
 		paramtype = "light",
+		paramtype2 = "facedir",
 		sunlight_propagates = true,
 		walkable = false,
 		selection_box = {
@@ -291,7 +293,7 @@ end
 local function register_recipes()
 	-- Beverages & Drinks (All craftable with water or milk)
 	minetest.register_craft({
-		output = modname .. ":cup-coffee",
+		output = modname .. ":cup_coffee",
 		recipe = {
 			{SUGAR, MILK, ""},
 			{"", modname .. ":cup", ""}
@@ -299,7 +301,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":cup-tea",
+		output = modname .. ":cup_tea",
 		recipe = {
 			{WATER, SUGAR, ""},
 			{"", modname .. ":cup", ""}
@@ -307,7 +309,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":cup-saucer",
+		output = modname .. ":cup_saucer",
 		recipe = {
 			{WATER, SUGAR, ""},
 			{"", modname .. ":cup", ""},
@@ -348,7 +350,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":soda-can 2",
+		output = modname .. ":soda_can 2",
 		recipe = {
 			{SUGAR, WATER, ""},
 			{"", PAPER, ""}
@@ -356,14 +358,14 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":soda-bottle 2",
+		output = modname .. ":soda_bottle 2",
 		recipe = {
 			{WATER, SUGAR, WATER}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":soda-glass",
+		output = modname .. ":soda_glass",
 		recipe = {
 			{WATER, SUGAR, ""},
 			{"", modname .. ":glass", ""}
@@ -387,23 +389,23 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":wine-red",
+		output = modname .. ":wine_red",
 		recipe = {
 			{APPLE, APPLE, WATER}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":wine-white",
+		output = modname .. ":wine_white",
 		recipe = {
 			{APPLE, SUGAR, WATER}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":glass-wine",
+		output = modname .. ":glass_wine",
 		recipe = {
-			{modname .. ":wine-red", ""},
+			{modname .. ":wine_red", ""},
 			{"", modname .. ":glass", ""}
 		}
 	})
@@ -436,35 +438,35 @@ local function register_recipes()
 		output = modname .. ":burger",
 		recipe = {
 			{BREAD},
-			{modname .. ":meat-patty"},
+			{modname .. ":meat_patty"},
 			{BREAD}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":burger-cheese",
+		output = modname .. ":burger_cheese",
 		recipe = {
 			{BREAD},
 			{modname .. ":cheese"},
-			{modname .. ":meat-patty"}
+			{modname .. ":meat_patty"}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":burger-double",
+		output = modname .. ":burger_double",
 		recipe = {
 			{BREAD},
-			{modname .. ":meat-patty"},
-			{modname .. ":meat-patty"}
+			{modname .. ":meat_patty"},
+			{modname .. ":meat_patty"}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":burger-cheese-double",
+		output = modname .. ":burger_cheese_double",
 		recipe = {
 			{BREAD},
 			{modname .. ":cheese"},
-			{modname .. ":burger-double"}
+			{modname .. ":burger_double"}
 		}
 	})
 
@@ -477,14 +479,14 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":meat-patty 2",
+		output = modname .. ":meat_patty 2",
 		recipe = {
 			{MEAT}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":meat-cooked",
+		output = modname .. ":meat_cooked",
 		recipe = {
 			{COOKED_MEAT}
 		}
@@ -493,12 +495,12 @@ local function register_recipes()
 	minetest.register_craft({
 		output = modname .. ":bacon",
 		recipe = {
-			{modname .. ":bacon-raw"}
+			{modname .. ":bacon_raw"}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":hot-dog",
+		output = modname .. ":hot_dog",
 		recipe = {
 			{BREAD, modname .. ":sausage", ""}
 		}
@@ -519,7 +521,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":cheese-cut 4",
+		output = modname .. ":cheese_cut 4",
 		recipe = {
 			{modname .. ":cheese"}
 		}
@@ -533,7 +535,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":cookie-chocolate 4",
+		output = modname .. ":cookie_chocolate 4",
 		recipe = {
 			{WHEAT, SUGAR, SUGAR}
 		}
@@ -547,14 +549,14 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":donut-chocolate 2",
+		output = modname .. ":donut_chocolate 2",
 		recipe = {
 			{modname .. ":donut", SUGAR, ""}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":donut-sprinkles 2",
+		output = modname .. ":donut_sprinkles 2",
 		recipe = {
 			{modname .. ":donut", SUGAR, SUGAR}
 		}
@@ -569,7 +571,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":cake-birthday",
+		output = modname .. ":cake_birthday",
 		recipe = {
 			{modname .. ":cake", SUGAR, ""}
 		}
@@ -611,14 +613,14 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":mincemeat-pie",
+		output = modname .. ":mincemeat_pie",
 		recipe = {
 			{WHEAT, COOKED_MEAT, WHEAT}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":ice-cream",
+		output = modname .. ":ice_cream",
 		recipe = {
 			{MILK, SUGAR, APPLE}
 		}
@@ -627,7 +629,7 @@ local function register_recipes()
 	minetest.register_craft({
 		output = modname .. ":sundae",
 		recipe = {
-			{modname .. ":ice-cream", SUGAR, ""}
+			{modname .. ":ice_cream", SUGAR, ""}
 		}
 	})
 
@@ -639,7 +641,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":candy-bar 2",
+		output = modname .. ":candy_bar 2",
 		recipe = {
 			{modname .. ":chocolate", SUGAR, ""}
 		}
@@ -660,7 +662,7 @@ local function register_recipes()
 	})
 
 	minetest.register_craft({
-		output = modname .. ":popsicle-chocolate",
+		output = modname .. ":popsicle_chocolate",
 		recipe = {
 			{modname .. ":chocolate", SUGAR, PAPER}
 		}
@@ -668,14 +670,14 @@ local function register_recipes()
 
 	-- Kitchenware / Tools Recipes
 	minetest.register_craft({
-		output = modname .. ":cutting-board",
+		output = modname .. ":cutting_board",
 		recipe = {
 			{WOOD, WOOD, WOOD}
 		}
 	})
 
 	minetest.register_craft({
-		output = modname .. ":frying-pan",
+		output = modname .. ":frying_pan",
 		recipe = {
 			{STEEL, STEEL, ""},
 			{"", STEEL, ""}
@@ -708,7 +710,7 @@ local function register_recipes()
 	-- Cooking / Smelting recipes
 	minetest.register_craft({
 		type = "cooking",
-		output = modname .. ":egg-cooked",
+		output = modname .. ":egg_cooked",
 		recipe = modname .. ":egg",
 		cooktime = 5,
 	})
@@ -716,14 +718,14 @@ local function register_recipes()
 	minetest.register_craft({
 		type = "cooking",
 		output = modname .. ":bacon",
-		recipe = modname .. ":bacon-raw",
+		recipe = modname .. ":bacon_raw",
 		cooktime = 5,
 	})
 
 	minetest.register_craft({
 		type = "cooking",
-		output = modname .. ":hot-dog",
-		recipe = modname .. ":hot-dog-raw",
+		output = modname .. ":hot_dog",
+		recipe = modname .. ":hot_dog_raw",
 		cooktime = 6,
 	})
 end
