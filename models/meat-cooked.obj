@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib meat-cooked.mtl
 
 g meat-cooked
 
@@ -366,4 +365,3 @@ f 69/6/37 68/6/37 67/6/37
 f 68/6/37 69/6/37 70/6/37
 f 73/6/37 72/6/37 71/6/37
 f 72/6/37 73/6/37 74/6/37
-

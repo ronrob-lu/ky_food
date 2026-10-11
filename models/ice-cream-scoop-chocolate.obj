@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib ice-cream-scoop-chocolate.mtl
 
 g ice-cream-scoop-chocolate
 
@@ -283,4 +282,3 @@ f 29/9/49 21/9/54 39/7/43
 f 29/9/49 39/7/43 40/7/44
 f 33/7/34 35/6/39 41/7/47
 f 35/6/39 33/7/34 31/6/32
-

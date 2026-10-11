@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib frikandel-speciaal.mtl
 
 g frikandel-speciaal
 
@@ -716,4 +715,3 @@ f 178/12/72 135/11/72 136/13/72
 f 186/12/78 135/11/72 178/12/72
 f 192/13/78 135/11/72 186/12/78
 f 135/11/72 192/13/78 134/13/72
-

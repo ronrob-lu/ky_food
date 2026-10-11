@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib bottle-musterd.mtl
 
 g bottle-musterd
 
@@ -283,4 +282,3 @@ f 32/5/6 30/5/6 45/5/6
 f 45/5/6 31/5/6 37/5/6
 f 29/5/6 45/5/6 30/5/6
 f 45/5/6 29/5/6 31/5/6
-

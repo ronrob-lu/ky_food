@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib maki-roe.mtl
 
 g maki-roe
 
@@ -190,4 +189,3 @@ f 25/5/21 22/4/15 21/4/13
 f 22/4/15 25/5/21 26/5/22
 f 26/5/22 24/4/20 22/4/15
 f 24/4/20 26/5/22 29/5/25
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib wholer-ham.mtl
 
 g wholer-ham
 
@@ -398,4 +397,3 @@ f 53/28/64 50/27/64 51/27/64
 f 50/27/64 53/28/64 54/28/64
 f 49/27/65 48/28/65 47/27/65
 f 48/28/65 49/27/65 52/28/65
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib tajine.mtl
 
 g tajine
 
@@ -491,4 +490,3 @@ f 62/8/53 84/7/54 82/7/53
 f 84/7/54 62/8/53 74/8/54
 f 51/8/47 75/7/50 65/8/50
 f 75/7/50 51/8/47 77/7/47
-

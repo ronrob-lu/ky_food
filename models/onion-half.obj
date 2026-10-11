@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib onion-half.mtl
 
 g onion-half
 
@@ -366,4 +365,3 @@ f 83/20/26 84/20/26 85/20/26
 f 85/20/26 84/20/26 49/20/26
 f 85/20/26 49/20/26 86/20/26
 f 86/20/26 49/20/26 87/20/26
-

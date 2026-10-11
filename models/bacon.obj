@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib bacon.mtl
 
 g bacon
 
@@ -132,4 +131,3 @@ f 29/2/1 8/2/2 7/2/1
 f 8/2/2 29/2/1 23/2/2
 f 13/2/2 30/2/3 27/2/2
 f 30/2/3 13/2/2 14/2/3
-

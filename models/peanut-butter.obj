@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib peanut-butter.mtl
 
 g peanut-butter
 
@@ -511,4 +510,3 @@ f 57/12/1 76/11/2 75/11/1
 f 76/11/2 57/12/1 58/12/2
 f 85/12/4 86/11/3 84/12/3
 f 86/11/3 85/12/4 74/11/4
-

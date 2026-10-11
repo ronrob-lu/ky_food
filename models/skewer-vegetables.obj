@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib skewer-vegetables.mtl
 
 g skewer-vegetables
 
@@ -367,4 +366,3 @@ f 87/15/7 89/12/7 88/13/7
 f 89/12/7 87/15/7 90/14/7
 f 90/14/7 87/15/7 81/13/7
 f 90/14/7 81/13/7 79/12/7
-

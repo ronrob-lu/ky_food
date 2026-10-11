@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cookie-chocolate.mtl
 
 g cookie-chocolate
 
@@ -431,4 +430,3 @@ f 77/8/55 67/7/21 65/7/12
 f 63/7/4 76/8/54 78/8/56
 f 78/8/56 65/7/12 63/7/4
 f 65/7/12 78/8/56 77/8/55
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib mushroom-half.mtl
 
 g mushroom-half
 
@@ -218,4 +217,3 @@ f 33/7/14 32/9/14 25/9/14
 f 33/7/14 25/9/14 20/11/14
 f 33/7/14 24/11/14 32/9/14
 f 24/11/14 33/7/14 34/7/14
-

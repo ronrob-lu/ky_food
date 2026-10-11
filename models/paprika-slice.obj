@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib paprika-slice.mtl
 
 g paprika-slice
 
@@ -293,4 +292,3 @@ f 2/2/34 43/2/34 42/2/34
 f 19/2/34 44/2/34 43/2/34
 f 4/2/34 43/2/34 2/2/34
 f 19/2/34 43/2/34 4/2/34
-

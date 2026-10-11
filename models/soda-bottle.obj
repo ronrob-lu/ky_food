@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib soda-bottle.mtl
 
 g soda-bottle
 
@@ -339,4 +338,3 @@ f 59/12/49 52/11/50 60/12/50
 f 52/11/50 59/12/49 54/11/49
 f 50/11/45 58/12/48 49/11/48
 f 58/12/48 50/11/45 55/12/45
-

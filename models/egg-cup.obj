@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib egg-cup.mtl
 
 g egg-cup
 
@@ -266,4 +265,3 @@ f 38/6/2 40/6/2 39/6/2
 f 38/6/2 39/6/2 37/6/2
 f 19/7/28 42/6/32 38/6/28
 f 42/6/32 19/7/28 21/7/32
-

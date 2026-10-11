@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib meat-tenderizer.mtl
 
 g meat-tenderizer
 
@@ -894,4 +893,3 @@ f 168/24/17 7/31/17 39/25/17
 f 7/31/17 162/23/17 10/31/17
 f 161/23/17 7/31/17 168/24/17
 f 7/31/17 161/23/17 162/23/17
-

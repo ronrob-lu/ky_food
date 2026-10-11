@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib soda-glass.mtl
 
 g soda-glass
 
@@ -371,4 +370,3 @@ f 88/15/38 87/15/38 86/15/38
 f 87/15/38 88/15/38 89/15/38
 f 89/15/38 88/15/38 90/15/38
 f 89/15/38 90/15/38 91/15/38
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib burger-cheese-double.mtl
 
 g bun-bottom
 
@@ -668,4 +667,3 @@ f 112/8/70 121/9/78 120/9/70
 f 121/9/78 112/8/70 115/8/78
 f 120/9/71 121/9/77 112/8/71
 f 115/8/77 112/8/71 121/9/77
-

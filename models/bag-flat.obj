@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib bag-flat.mtl
 
 g bag-flat
 
@@ -366,4 +365,3 @@ f 56/4/55 24/3/55 21/4/55
 f 21/4/55 24/3/55 20/3/52
 f 20/3/52 24/3/55 54/3/55
 f 20/3/52 54/3/55 55/3/51
-

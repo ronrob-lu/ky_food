@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib plate-deep.mtl
 
 g plate-deep
 
@@ -436,4 +435,3 @@ f 54/5/58 38/3/62 34/3/58
 f 38/3/62 55/5/61 44/3/61
 f 38/3/62 54/5/58 53/5/62
 f 55/5/61 38/3/62 53/5/62
-

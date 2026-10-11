@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib ice-cream.mtl
 
 g ice-cream
 
@@ -209,4 +208,3 @@ f 43/5/4 42/5/37 40/5/35
 f 23/5/18 10/5/4 40/5/35
 f 43/5/4 40/5/35 6/5/4
 f 6/5/4 40/5/35 10/5/4
-

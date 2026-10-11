@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib pepper-mill.mtl
 
 g pepper-mill
 
@@ -801,4 +800,3 @@ f 35/4/66 86/4/66 83/4/66
 f 30/4/66 83/4/66 81/4/66
 f 35/4/66 83/4/66 31/4/66
 f 31/4/66 83/4/66 30/4/66
-

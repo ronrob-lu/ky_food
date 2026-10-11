@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib meat-ribs.mtl
 
 g meat-ribs
 
@@ -482,4 +481,3 @@ f 82/6/46 67/7/46 84/7/46
 f 67/7/46 82/6/46 68/6/46
 f 84/7/36 81/6/36 82/6/36
 f 81/6/36 84/7/36 83/7/36
-

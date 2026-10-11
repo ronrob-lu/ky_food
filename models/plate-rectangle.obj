@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib plate-rectangle.mtl
 
 g plate-rectangle
 
@@ -207,4 +206,3 @@ f 19/2/20 26/3/22 28/3/20
 f 25/3/21 20/2/22 15/2/21
 f 26/3/22 19/2/20 20/2/22
 f 20/2/22 25/3/21 26/3/22
-

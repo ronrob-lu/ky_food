@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib coconut-half.mtl
 
 g coconut-half
 
@@ -295,4 +294,3 @@ f 44/5/33 40/4/28 53/5/28
 f 37/4/32 44/5/33 41/5/32
 f 40/4/28 44/5/33 39/4/33
 f 44/5/33 37/4/32 39/4/33
-

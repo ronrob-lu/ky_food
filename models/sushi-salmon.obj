@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib sushi-salmon.mtl
 
 g sushi-salmon
 
@@ -322,4 +321,3 @@ f 66/7/38 61/6/36 65/7/38
 f 61/6/36 66/7/38 62/6/37
 f 68/7/38 63/6/36 67/7/38
 f 63/6/36 68/7/38 64/6/37
-

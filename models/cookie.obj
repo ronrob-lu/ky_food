@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cookie.mtl
 
 g cookie
 
@@ -233,4 +232,3 @@ f 18/4/33 40/5/31 38/4/33
 f 40/5/31 18/4/33 33/5/31
 f 37/5/27 9/4/25 10/4/25
 f 9/4/25 37/5/27 42/5/27
-

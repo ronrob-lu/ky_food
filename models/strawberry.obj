@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib strawberry.mtl
 
 g strawberry
 
@@ -514,4 +513,3 @@ f 80/11/44 72/11/44 70/11/44
 f 72/11/44 74/11/44 71/11/44
 f 73/11/44 72/11/44 80/11/44
 f 74/11/44 72/11/44 73/11/44
-

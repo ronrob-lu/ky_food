@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib muffin.mtl
 
 g muffin
 
@@ -281,4 +280,3 @@ f 36/7/42 42/6/45 41/6/42
 f 42/6/45 36/7/42 34/7/45
 f 42/6/45 33/7/44 44/6/44
 f 33/7/44 42/6/45 34/7/45
-

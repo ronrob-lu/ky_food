@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib chocolate.mtl
 
 g chocolate
 
@@ -382,4 +381,3 @@ f 16/1/7 11/1/7 12/1/7
 f 36/1/7 37/1/7 51/1/7
 f 11/1/7 16/1/7 37/1/7
 f 36/1/7 11/1/7 37/1/7
-

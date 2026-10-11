@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cooking-knife.mtl
 
 g cooking-knife
 
@@ -141,4 +140,3 @@ f 21/7/14 16/8/14 17/8/14
 f 16/8/14 21/7/14 20/7/14
 f 19/8/15 21/7/15 17/8/15
 f 21/7/15 19/8/15 23/7/15
-

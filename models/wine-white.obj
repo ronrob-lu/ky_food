@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib wine-white.mtl
 
 g wine-white
 
@@ -398,4 +397,3 @@ f 38/13/30 30/12/54 41/13/54
 f 30/12/54 38/13/30 29/12/30
 f 26/12/26 35/13/29 28/12/29
 f 35/13/29 26/12/26 32/13/26
-

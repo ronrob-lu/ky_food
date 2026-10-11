@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib tajine-lid.mtl
 
 g tajine-lid
 
@@ -431,4 +430,3 @@ f 74/9/46 79/8/51 10/8/46
 f 79/8/51 74/9/46 80/9/51
 f 75/9/47 9/8/45 30/8/47
 f 9/8/45 75/9/47 73/9/45
-

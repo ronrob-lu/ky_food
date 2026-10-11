@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cooking-spatula.mtl
 
 g cooking-spatula
 
@@ -219,4 +218,3 @@ f 12/5/4 34/5/4 33/5/4
 f 34/5/4 12/5/4 14/5/4
 f 33/5/2 34/5/2 12/5/2
 f 14/5/2 12/5/2 34/5/2
-

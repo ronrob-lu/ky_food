@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib sausage-half.mtl
 
 g sausage-half
 
@@ -320,4 +319,3 @@ f 49/19/1 14/25/1 16/23/1
 f 49/19/1 16/23/1 48/20/1
 f 12/21/1 48/20/1 16/23/1
 f 54/26/1 12/21/1 16/23/1
-

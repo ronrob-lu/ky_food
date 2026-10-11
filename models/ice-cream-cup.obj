@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib ice-cream-cup.mtl
 
 g ice-cream-cup
 
@@ -214,4 +213,3 @@ f 6/2/7 32/2/7 31/2/7
 f 3/2/7 33/2/7 32/2/7
 f 4/2/7 32/2/7 6/2/7
 f 3/2/7 32/2/7 4/2/7
-

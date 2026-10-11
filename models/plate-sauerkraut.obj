@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib plate-sauerkraut.mtl
 
 g plate-sauerkraut
 
@@ -1780,4 +1779,3 @@ f 291/37/249 307/37/256 292/37/256
 f 307/37/256 291/37/249 304/37/249
 f 306/37/243 302/37/243 309/37/243
 f 302/37/243 306/37/243 303/37/243
-

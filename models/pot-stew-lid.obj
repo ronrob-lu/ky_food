@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib pot-stew-lid.mtl
 
 g pot-stew-lid
 
@@ -509,4 +508,3 @@ f 38/25/22 36/24/22 35/23/22
 f 37/26/22 36/24/22 38/25/22
 f 39/27/22 37/26/22 38/25/22
 f 40/28/22 37/26/22 39/27/22
-

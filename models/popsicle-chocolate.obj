@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib popsicle-chocolate.mtl
 
 g popsicle-chocolate
 
@@ -412,4 +411,3 @@ f 81/15/23 67/14/32 68/14/32
 f 81/15/23 68/14/32 74/14/32
 f 81/15/23 74/14/32 75/14/32
 f 81/15/23 75/14/32 62/14/27
-

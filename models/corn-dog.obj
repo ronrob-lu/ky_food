@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib corn-dog.mtl
 
 g corn-dog
 
@@ -183,4 +182,3 @@ f 35/4/30 36/4/31 33/5/28
 f 35/4/30 33/5/28 34/5/29
 f 36/4/31 29/6/24 30/4/25
 f 29/6/24 36/4/31 31/3/26
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib shaker-pepper.mtl
 
 g shaker-pepper
 
@@ -390,4 +389,3 @@ f 67/10/39 66/11/62 65/10/62
 f 66/11/62 67/10/39 68/11/39
 f 61/10/38 68/11/39 67/10/39
 f 68/11/39 61/10/38 62/11/38
-

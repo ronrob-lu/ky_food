@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cup-saucer.mtl
 
 g cup-saucer
 
@@ -351,4 +350,3 @@ f 55/4/38 24/1/33 54/4/33
 f 18/1/37 55/4/38 60/4/37
 f 24/1/33 55/4/38 22/1/38
 f 55/4/38 18/1/37 22/1/38
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib rice-ball.mtl
 
 g rice-ball
 
@@ -350,4 +349,3 @@ f 52/5/50 53/7/51 56/4/54
 f 50/6/48 55/4/53 56/4/54
 f 54/5/52 56/4/54 55/4/53
 f 56/4/54 54/5/52 52/5/50
-

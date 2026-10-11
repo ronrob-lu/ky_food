@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib egg-cooked.mtl
 
 g egg-cooked
 
@@ -291,4 +290,3 @@ f 46/3/34 47/3/28 48/3/36
 f 19/3/29 48/3/36 47/3/28
 f 18/3/35 48/3/36 17/3/37
 f 48/3/36 19/3/29 17/3/37
-

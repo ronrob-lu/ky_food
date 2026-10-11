@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib styrofoam.mtl
 
 g styrofoam
 
@@ -428,4 +427,3 @@ f 74/3/70 59/3/74 57/3/71
 f 59/3/74 67/3/72 61/3/73
 f 59/3/74 74/3/70 72/3/75
 f 67/3/72 59/3/74 72/3/75
-
