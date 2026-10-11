@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cheese-cut.mtl
 
 g cheese-cut
 
@@ -433,4 +432,3 @@ f 60/4/14 76/4/14 58/4/14
 f 58/4/14 76/4/14 78/4/14
 f 46/4/14 60/4/14 52/4/14
 f 46/4/14 52/4/14 51/4/14
-

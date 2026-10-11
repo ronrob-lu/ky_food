@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib skewer.mtl
 
 g skewer
 
@@ -275,4 +274,3 @@ f 54/5/13 64/7/23 65/7/24
 f 64/7/23 54/5/13 53/5/12
 f 65/7/24 52/4/11 54/5/13
 f 52/4/11 65/7/24 66/4/25
-

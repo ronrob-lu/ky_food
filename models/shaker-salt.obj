@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib shaker-salt.mtl
 
 g shaker-salt
 
@@ -390,4 +389,3 @@ f 65/10/24 64/11/28 63/10/28
 f 64/11/28 65/10/24 66/11/24
 f 67/10/62 66/11/24 65/10/24
 f 66/11/24 67/10/62 68/11/62
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib knife-block.mtl
 
 g knife-block
 
@@ -369,4 +368,3 @@ f 89/17/21 84/18/21 85/18/21
 f 84/18/21 89/17/21 88/17/21
 f 87/18/22 89/17/22 85/18/22
 f 89/17/22 87/18/22 91/17/22
-

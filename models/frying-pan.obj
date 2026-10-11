@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib frying-pan.mtl
 
 g frying-pan
 
@@ -602,4 +601,3 @@ f 91/8/63 101/10/67 102/8/67
 f 101/10/67 91/8/63 93/10/63
 f 100/13/70 96/8/69 102/8/69
 f 96/8/69 100/13/70 99/13/70
-

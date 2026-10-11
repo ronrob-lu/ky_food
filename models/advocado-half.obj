@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib advocado-half.mtl
 
 g advocado-half
 
@@ -300,4 +299,3 @@ f 64/11/1 60/21/8 45/21/3
 f 60/21/8 64/11/1 63/11/6
 f 56/22/32 59/21/35 43/21/20
 f 59/21/35 56/22/32 57/22/33
-

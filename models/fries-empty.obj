@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib fries-empty.mtl
 
 g fries-empty
 
@@ -349,4 +348,3 @@ f 17/6/38 50/5/39 47/5/36
 f 50/5/39 17/6/38 16/6/40
 f 9/6/33 49/5/41 52/5/34
 f 49/5/41 9/6/33 12/6/42
-

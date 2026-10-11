@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib carton-small.mtl
 
 g carton-small
 
@@ -247,4 +246,3 @@ f 43/14/9 3/3/9 44/15/9
 f 7/3/9 44/15/9 3/3/9
 f 45/15/9 44/15/9 7/3/9
 f 46/14/9 45/15/9 7/3/9
-

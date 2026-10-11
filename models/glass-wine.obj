@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib glass-wine.mtl
 
 g glass-wine
 
@@ -630,4 +629,3 @@ f 16/9/3 14/9/3 25/9/3
 f 14/9/3 3/9/3 34/9/3
 f 25/9/3 14/9/3 35/9/3
 f 35/9/3 14/9/3 34/9/3
-

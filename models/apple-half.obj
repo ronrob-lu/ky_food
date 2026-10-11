@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib apple-half.mtl
 
 g apple-half
 
@@ -411,4 +410,3 @@ f 68/32/37 73/31/37 70/32/37
 f 73/31/37 68/32/37 66/31/37
 f 71/32/40 73/31/41 72/31/40
 f 73/31/41 71/32/40 70/32/41
-

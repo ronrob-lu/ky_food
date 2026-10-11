@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib chopstic-decorative.mtl
 
 g chopstic-decorative
 
@@ -137,4 +136,3 @@ f 26/15/6 16/13/6 11/13/6
 f 16/13/6 26/15/6 23/15/6
 f 25/16/4 11/13/4 9/14/4
 f 11/13/4 25/16/4 26/15/4
-

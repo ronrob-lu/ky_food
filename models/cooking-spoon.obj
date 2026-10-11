@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cooking-spoon.mtl
 
 g cooking-spoon
 
@@ -192,4 +191,3 @@ f 6/2/37 3/3/5 7/3/5
 f 3/3/5 6/2/37 2/2/37
 f 2/2/37 6/2/37 21/2/37
 f 2/2/37 21/2/37 22/2/37
-

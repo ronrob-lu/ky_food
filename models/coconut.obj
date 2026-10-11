@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib coconut.mtl
 
 g coconut
 
@@ -254,4 +253,3 @@ f 25/2/25 26/2/26 30/2/30
 f 30/2/30 26/2/26 27/2/27
 f 34/5/34 16/4/16 17/4/17
 f 16/4/16 34/5/34 40/5/40
-

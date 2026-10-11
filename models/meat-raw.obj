@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib meat-raw.mtl
 
 g meat-raw
 
@@ -340,4 +339,3 @@ f 60/4/37 51/4/37 6/4/37
 f 61/4/37 51/4/37 60/4/37
 f 62/4/37 51/4/37 61/4/37
 f 51/4/37 62/4/37 49/4/37
-

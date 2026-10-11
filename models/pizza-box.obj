@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib pizza-box.mtl
 
 g pizza-box
 
@@ -224,4 +223,3 @@ f 41/2/16 34/2/16 39/2/16
 f 39/2/16 34/2/16 37/2/16
 f 42/2/16 44/2/16 41/2/16
 f 44/2/16 42/2/16 46/2/16
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cutting-board-round.mtl
 
 g cutting-board-round
 
@@ -445,4 +444,3 @@ f 63/1/34 78/1/34 80/1/34
 f 79/1/34 68/1/34 80/1/34
 f 63/1/34 80/1/34 68/1/34
 f 63/1/34 68/1/34 64/1/34
-

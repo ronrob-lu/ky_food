@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cake-slicer.mtl
 
 g cake-slicer
 
@@ -134,4 +133,3 @@ f 13/6/2 16/6/2 19/6/2
 f 20/6/2 19/6/2 16/6/2
 f 21/6/2 19/6/2 20/6/2
 f 22/6/2 21/6/2 20/6/2
-

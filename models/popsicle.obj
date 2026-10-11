@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib popsicle.mtl
 
 g popsicle
 
@@ -251,4 +250,3 @@ f 43/9/1 39/10/1 42/11/1
 f 42/11/1 39/10/1 41/12/1
 f 41/12/1 39/10/1 40/11/1
 f 40/11/1 39/10/1 38/9/1
-

@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib whipped-cream.mtl
 
 g whipped-cream
 
@@ -268,4 +267,3 @@ f 19/3/40 42/4/44 38/4/34
 f 42/4/44 30/4/19 38/4/34
 f 30/4/19 42/4/44 41/4/42
 f 18/3/43 41/4/42 42/4/44
-

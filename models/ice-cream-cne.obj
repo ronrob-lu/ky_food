@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib ice-cream-cne.mtl
 
 g ice-cream-cne
 
@@ -146,4 +145,3 @@ f 20/3/1 11/3/1 19/3/1
 f 19/3/1 9/3/1 21/3/1
 f 10/3/1 19/3/1 11/3/1
 f 19/3/1 10/3/1 9/3/1
-

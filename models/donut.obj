@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib donut.mtl
 
 g donut
 
@@ -350,4 +349,3 @@ f 7/3/56 40/3/40 15/3/56
 f 5/3/56 48/3/48 7/3/56
 f 7/3/56 38/3/38 40/3/40
 f 38/3/38 7/3/56 48/3/48
-

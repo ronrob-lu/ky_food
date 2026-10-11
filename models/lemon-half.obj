@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib lemon-half.mtl
 
 g lemon-half
 
@@ -349,4 +348,3 @@ f 29/8/32 10/8/32 26/8/32
 f 10/8/32 29/8/32 9/8/32
 f 9/8/32 29/8/32 28/8/32
 f 9/8/32 28/8/32 12/8/32
-

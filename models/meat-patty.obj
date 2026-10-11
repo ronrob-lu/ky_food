@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib meat-patty.mtl
 
 g meat-patty
 
@@ -313,4 +312,3 @@ f 48/4/30 46/4/30 45/4/30
 f 46/4/30 48/4/30 49/4/30
 f 49/4/30 48/4/30 51/4/30
 f 49/4/30 51/4/30 50/4/30
-

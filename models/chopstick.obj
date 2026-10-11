@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib chopstick.mtl
 
 g chopstick
 
@@ -59,4 +58,3 @@ f 2/1/5 7/4/5 5/3/5
 f 7/4/5 2/1/5 4/2/5
 f 1/1/6 5/3/6 6/3/6
 f 5/3/6 1/1/6 2/1/6
-

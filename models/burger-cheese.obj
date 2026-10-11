@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib burger-cheese.mtl
 
 g bun-bottom
 
@@ -418,4 +417,3 @@ f 64/8/58 73/9/66 72/9/58
 f 73/9/66 64/8/58 67/8/66
 f 72/9/59 73/9/65 64/8/59
 f 67/8/65 64/8/59 73/9/65
-

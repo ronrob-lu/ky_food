@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib ginger-bread-cutter.mtl
 
 g ginger-bread-cutter
 
@@ -372,4 +371,3 @@ f 11/2/30 48/2/30 30/2/30
 f 50/2/30 11/2/30 12/2/30
 f 48/2/30 11/2/30 51/2/30
 f 11/2/30 50/2/30 51/2/30
-

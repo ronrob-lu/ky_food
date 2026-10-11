@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cheese-slicer.mtl
 
 g cheese-slicer
 
@@ -160,4 +159,3 @@ f 24/6/24 15/7/21 14/6/15
 f 21/7/21 15/7/21 24/6/24
 f 16/7/20 15/7/21 21/7/21
 f 22/7/22 16/7/20 21/7/21
-

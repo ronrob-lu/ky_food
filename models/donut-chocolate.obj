@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib donut-chocolate.mtl
 
 g donut-chocolate
 
@@ -403,4 +402,3 @@ f 66/10/65 51/10/50 60/10/59
 f 57/10/56 62/10/61 66/10/65
 f 66/10/65 68/10/67 51/10/50
 f 68/10/67 66/10/65 62/10/61
-

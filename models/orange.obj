@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib orange.mtl
 
 g orange
 
@@ -387,4 +386,3 @@ f 54/7/41 62/7/41 46/7/41
 f 48/7/41 57/7/41 58/7/41
 f 46/7/41 57/7/41 48/7/41
 f 57/7/41 46/7/41 62/7/41
-

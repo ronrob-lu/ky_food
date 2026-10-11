@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib croissant.mtl
 
 g croissant
 
@@ -527,4 +526,3 @@ f 1/1/1 66/7/90 4/3/4
 f 1/1/1 63/4/90 66/7/90
 f 2/2/2 63/4/90 1/1/1
 f 63/4/90 2/2/2 54/2/90
-

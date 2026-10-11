@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib utensil-knife.mtl
 
 g utensil-knife
 
@@ -76,4 +75,3 @@ f 6/1/9 7/1/10 8/1/4
 f 9/1/4 8/1/4 7/1/10
 f 10/1/4 8/1/4 9/1/4
 f 11/1/4 8/1/4 10/1/4
-

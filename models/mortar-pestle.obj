@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib mortar-pestle.mtl
 
 g mortar-pestle
 
@@ -191,4 +190,3 @@ f 29/6/26 26/3/24 13/3/26
 f 26/3/24 29/6/26 28/6/24
 f 14/3/25 29/6/26 13/3/26
 f 29/6/26 14/3/25 30/6/25
-

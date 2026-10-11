@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib maki-salmon.mtl
 
 g maki-salmon
 
@@ -178,4 +177,3 @@ f 4/5/1 8/5/1 6/5/1
 f 11/5/1 5/5/1 6/5/1
 f 11/5/1 6/5/1 8/5/1
 f 11/5/1 8/5/1 16/5/1
-

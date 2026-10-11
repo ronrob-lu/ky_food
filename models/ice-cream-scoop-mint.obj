@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib ice-cream-scoop-mint.mtl
 
 g ice-cream-scoop-mint
 
@@ -195,4 +194,3 @@ f 27/5/28 22/5/23 23/5/24
 f 27/5/28 23/5/24 24/5/25
 f 20/5/21 29/4/30 19/4/20
 f 29/4/30 20/5/21 30/5/31
-

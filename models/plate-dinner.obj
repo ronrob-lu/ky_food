@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib plate-dinner.mtl
 
 g plate-dinner
 
@@ -1081,4 +1080,3 @@ f 203/31/1 202/31/1 201/31/1
 f 202/31/1 203/31/1 204/31/1
 f 207/31/1 206/31/1 205/31/1
 f 206/31/1 207/31/1 208/31/1
-

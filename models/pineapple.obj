@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib pineapple.mtl
 
 g pineapple
 
@@ -648,4 +647,3 @@ f 43/6/42 80/30/112 78/30/112
 f 80/30/112 43/6/42 41/6/42
 f 78/30/113 80/30/113 43/6/44
 f 41/6/44 43/6/44 80/30/113
-

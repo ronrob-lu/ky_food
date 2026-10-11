@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib cutting-board-japanese.mtl
 
 g cutting-board-japanese
 
@@ -296,4 +295,3 @@ f 3/1/5 33/3/14 27/1/14
 f 33/3/14 3/1/5 53/3/5
 f 2/1/5 54/3/5 1/1/5
 f 54/3/5 2/1/5 39/3/5
-

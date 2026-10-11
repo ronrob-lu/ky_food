@@ -1,6 +1,5 @@
 # Created by Kenney (www.kenney.nl)
 
-mtllib styrofoam-dinner.mtl
 
 g styrofoam-dinner
 
@@ -709,4 +708,3 @@ f 141/3/116 126/3/120 124/3/117
 f 126/3/120 134/3/118 128/3/119
 f 126/3/120 141/3/116 139/3/121
 f 134/3/118 126/3/120 139/3/121
-
