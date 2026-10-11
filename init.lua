@@ -406,7 +406,7 @@ local function register_recipes()
 		output = modname .. ":glass_wine",
 		recipe = {
 			{modname .. ":wine_red", ""},
-			{"", modname .. ":glass", ""}
+			{"", modname .. ":glass"}
 		}
 	})
 
